@@ -29,3 +29,9 @@ You can install standalone versions of the game here: https://bit.ly/standofflin
 ### Wii U
 - Make sure you can install custom software on your Wii U.
 - Download and install the .wup file and play.
+### PlayStation 4
+- Make sure you can install custom software on your PS4.
+- Download and install the file and play.
+### PlayStation Vita
+- Make sure you can install custom software on your PSVita.
+- Download and install the .vpk file and play.
