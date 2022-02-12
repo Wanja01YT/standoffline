@@ -10,7 +10,7 @@ Standoffline includes the following versions:
 - 0.15.6 (4 Years Celebration)
 - 0.XX.X (TBA)
 
-You can install standalone versions of the game here: https://bit.ly/standoffline
+### To download standalone android versions, click on "+ 5 Releases"
 
 ## Installation Tutorial for all Platforms
 ### PC
