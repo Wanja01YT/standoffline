@@ -10,7 +10,7 @@ Standoffline includes the following versions:
 - 0.15.6 (4 Years Celebration)
 - 0.XX.X (TBA)
 
-### To download standalone android versions, click on "+ 5 Releases"
+### To download standalone android versions, click on "+ 5 releases"
 
 ## Installation Tutorial for all Platforms
 ### PC
